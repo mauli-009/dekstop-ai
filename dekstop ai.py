@@ -55,6 +55,9 @@ if __name__== "__main__":
                 os.startfile(musicpath)
 
 
+#this is incomplete you can add more functionalities in this ai.
+
+
 
 
 
